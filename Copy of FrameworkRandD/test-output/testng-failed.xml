@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [Suite]" parallel="methods">
+  <listeners>
+    <listener class-name="loggerFactory.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="Tests.LoginTestTwo">
+        <methods>
+          <include name="verifyLoginLogoutTwo"/>
+          <include name="afterEachTestMethod"/>
+          <include name="fixtureSetup"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="fixtureTearDown"/>
+        </methods>
+      </class> <!-- Tests.LoginTestTwo -->
+      <class name="Tests.LoginTestThree">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="fixtureSetup"/>
+          <include name="fixtureTearDown"/>
+        </methods>
+      </class> <!-- Tests.LoginTestThree -->
+      <class name="Tests.LoginTestFour">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="fixtureSetup"/>
+          <include name="fixtureTearDown"/>
+        </methods>
+      </class> <!-- Tests.LoginTestFour -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

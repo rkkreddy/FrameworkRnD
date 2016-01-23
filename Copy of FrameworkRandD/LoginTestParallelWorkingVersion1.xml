@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Suite" parallel="methods"
+	data-provider-thread-count="10">
+	<listeners>
+      <!-- <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> -->
+      <listener class-name="loggerFactory.ExtentReporterNG" />
+  	</listeners>
+	<test name="Test" verbose="5">
+		<classes>
+			<class name="Tests.LoginTestFour" />
+			<class name="Tests.LoginTestThree" />
+			<class name="Tests.LoginTestTwo" />
+		</classes>
+	</test>
+	<!-- <test name="T_01">
+	    <classes>
+	        <class name="Tests.LoginTestFour" ></class>
+	    </classes>
+	</test>
+	 
+	<test name="T_02">
+	    <classes>
+	        <class name="Tests.LoginTestThree" ></class>
+	    </classes>
+	</test>
+	 
+	<test name="T_03">
+	    <classes>
+	        <class name="Tests.LoginTestTwo" ></class>
+	    </classes>
+	</test> -->
+	<!-- Test -->
+</suite><!-- Suite -->

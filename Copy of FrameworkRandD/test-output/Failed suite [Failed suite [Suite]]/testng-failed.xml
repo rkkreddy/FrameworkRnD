@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [Failed suite [Failed suite [Suite]]]" parallel="methods">
+  <listeners>
+    <listener class-name="driverFactory.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)(failed)(failed)" parallel="methods">
+    <classes>
+      <class name="Tests.LoginTestTwo">
+        <methods>
+          <include name="verifyLoginLogoutTwo"/>
+          <include name="fixtureSetup"/>
+          <include name="fixtureTearDown"/>
+        </methods>
+      </class> <!-- Tests.LoginTestTwo -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="24.663">
+  <properties />
+  
+  
+            <testcase name="verifyLoginLogoutThree on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] " time="24.663" classname="Tests.LoginTestThree" />
+      
+</testsuite>

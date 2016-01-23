@@ -1,0 +1,4 @@
+\Q/test-output/\E.*
+\Q/src/test/java/testCode/\E.*
+\Q/target/\E.*
+\Q/Copy (2) of pom.xml\E

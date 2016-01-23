@@ -1,0 +1,30 @@
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 0
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 1
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 2
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 3
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 4
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 5
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 6
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 7
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 8
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 9
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 0
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 1
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 2
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 3
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 4
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 5
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 6
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 7
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 8
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 9
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 0
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 1
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 2
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 3
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 4
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 5
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 6
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 7
+[main] INFO  testCode.TestLoggerSLF4J  - Hello 8
+[main] DEBUG testCode.TestLoggerSLF4J  - I am on index 9

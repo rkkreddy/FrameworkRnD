@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Suite" parallel="methods"
+	data-provider-thread-count="10">
+	<test name="Test" verbose="5">
+		<classes>
+			<class name="Tests.CopyOfLoginTest" />
+		</classes>
+	</test>
+	<!-- Test -->
+</suite><!-- Suite -->

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="3" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report directory: C:\Users\Kirna.Reddyvari\workspace\Copy of FrameworkRandD\test-output\html]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Test started on: hswebdevload03.camelot.local</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Starting this test on environment: SIT.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Navigating to URL: http://172.27.85.89:9080/Jasper/.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter user name</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: username'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'LoadTest2'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter password</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: password'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'homesite1'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Login button</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: idLoginButton'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Check if SignOut link is displayed</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Test started on: hswebdevload01.camelot.local</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Starting this test on environment: SIT.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Navigating to URL: http://172.27.85.89:9080/Jasper/.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter user name</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: username'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'LoadTest3'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter password</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: password'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'homesite'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Login button</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: idLoginButton'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Check if SignOut link is displayed</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Log Out link</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Test started on: hswebdevload01.camelot.local</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Starting this test on environment: SIT.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Navigating to URL: http://172.27.85.89:9080/Jasper/.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter user name</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: username'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'LoadTest4'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter password</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: password'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'homesite'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Login button</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: idLoginButton'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Check if SignOut link is displayed</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Log Out link</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='red'>Element failed to load with in 6 seconds.</font><br>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font face='verdana' color='red'>ERROR SCREENSHOT:<br><br></font><a href=./error-screenshots/18_Jan_2016__07_15_51AM.png target='_blank'><img src='./error-screenshots/18_Jan_2016__07_15_51AM.png' alt='Error Snapshot' style='width:304px;height:228px'></a><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="103100" started-at="2016-01-18T12:14:11Z" finished-at="2016-01-18T12:15:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="103100" started-at="2016-01-18T12:14:11Z" finished-at="2016-01-18T12:15:54Z">
+      <class name="Tests.LoginTestTwo">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="extentSetup" is-config="true" duration-ms="362" started-at="2016-01-18T07:14:10Z" finished-at="2016-01-18T07:14:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3c72f59f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report directory: C:\Users\Kirna.Reddyvari\workspace\Copy of FrameworkRandD\test-output\html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="fixtureSetup(java.lang.reflect.Method)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="fixtureSetup" is-config="true" duration-ms="8556" started-at="2016-01-18T07:14:11Z" finished-at="2016-01-18T07:14:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tests.LoginTestTwo.verifyLoginLogoutTwo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Test started on: hswebdevload03.camelot.local</font><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fixtureSetup -->
+        <test-method status="FAIL" signature="verifyLoginLogoutTwo()[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="verifyLoginLogoutTwo" duration-ms="91618" started-at="2016-01-18T07:14:19Z" description="Login Test Two" finished-at="2016-01-18T07:15:51Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at Tests.LoginTestTwo.verifyLoginLogoutTwo(LoginTestTwo.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:696)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:882)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1189)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Starting this test on environment: SIT.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Navigating to URL: http://172.27.85.89:9080/Jasper/.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter user name</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: username'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'LoadTest2'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter password</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: password'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'homesite1'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Login button</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: idLoginButton'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Check if SignOut link is displayed</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='red'>Element failed to load with in 6 seconds.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='red'>ERROR SCREENSHOT:<br><br></font><a href=./error-screenshots/18_Jan_2016__07_15_51AM.png target='_blank'><img src='./error-screenshots/18_Jan_2016__07_15_51AM.png' alt='Error Snapshot' style='width:304px;height:228px'></a><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginLogoutTwo -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="afterEachTestMethod" is-config="true" duration-ms="33" started-at="2016-01-18T07:15:51Z" finished-at="2016-01-18T07:15:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginLogoutTwo on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:]  status=FAILURE method=LoginTestTwo.verifyLoginLogoutTwo()[pri:0, instance:[Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ] output=<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="fixtureTearDown(org.testng.ITestResult)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="fixtureTearDown" is-config="true" duration-ms="2851" started-at="2016-01-18T07:15:51Z" finished-at="2016-01-18T07:15:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginLogoutTwo on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:]  status=FAILURE method=LoginTestTwo.verifyLoginLogoutTwo()[pri:0, instance:[Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ] output=<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fixtureTearDown -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="generateReport" is-config="true" duration-ms="39" started-at="2016-01-18T07:15:54Z" finished-at="2016-01-18T07:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- Tests.LoginTestTwo -->
+      <class name="Tests.LoginTestFour">
+        <test-method status="PASS" signature="fixtureSetup(java.lang.reflect.Method)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="fixtureSetup" is-config="true" duration-ms="43980" started-at="2016-01-18T07:14:11Z" finished-at="2016-01-18T07:14:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tests.LoginTestFour.verifyLoginLogout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Test started on: hswebdevload01.camelot.local</font><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fixtureSetup -->
+        <test-method status="PASS" signature="verifyLoginLogout()[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="verifyLoginLogout" duration-ms="25428" started-at="2016-01-18T07:14:55Z" description="Login Test Four" finished-at="2016-01-18T07:15:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Starting this test on environment: SIT.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Navigating to URL: http://172.27.85.89:9080/Jasper/.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter user name</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: username'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'LoadTest4'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter password</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: password'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'homesite'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Login button</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: idLoginButton'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Check if SignOut link is displayed</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Log Out link</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginLogout -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="afterEachTestMethod" is-config="true" duration-ms="32" started-at="2016-01-18T07:15:20Z" finished-at="2016-01-18T07:15:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginLogout on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:]  status=SUCCESS method=LoginTestFour.verifyLoginLogout()[pri:0, instance:[Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ] output=<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="fixtureTearDown(org.testng.ITestResult)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="fixtureTearDown" is-config="true" duration-ms="1371" started-at="2016-01-18T07:15:20Z" finished-at="2016-01-18T07:15:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginLogout on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:]  status=SUCCESS method=LoginTestFour.verifyLoginLogout()[pri:0, instance:[Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ] output=<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fixtureTearDown -->
+      </class> <!-- Tests.LoginTestFour -->
+      <class name="Tests.LoginTestThree">
+        <test-method status="PASS" signature="fixtureSetup(java.lang.reflect.Method)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="fixtureSetup" is-config="true" duration-ms="11490" started-at="2016-01-18T07:14:11Z" finished-at="2016-01-18T07:14:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tests.LoginTestThree.verifyLoginLogoutThree()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Test started on: hswebdevload01.camelot.local</font><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fixtureSetup -->
+        <test-method status="PASS" signature="verifyLoginLogoutThree()[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="verifyLoginLogoutThree" duration-ms="24693" started-at="2016-01-18T07:14:22Z" description="Login Test Three" finished-at="2016-01-18T07:14:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Starting this test on environment: SIT.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Navigating to URL: http://172.27.85.89:9080/Jasper/.</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter user name</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: username'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'LoadTest3'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Enter password</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: password'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Entering value 'homesite'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Login button</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.id: idLoginButton'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Check if SignOut link is displayed</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding elements 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><font face='verdana' color='BlueViolet'>=> Click Log Out link</font><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='chocolate'>==> Finding element 'By.linkText: (Sign out)'.</font></i><br>]]>
+            </line>
+            <line>
+              <![CDATA[<p><i><font face='verdana' color='darkolivegreen'>===> Clicking the element.</font></i><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginLogoutThree -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="afterEachTestMethod" is-config="true" duration-ms="312" started-at="2016-01-18T07:14:47Z" finished-at="2016-01-18T07:14:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginLogoutThree on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:]  status=SUCCESS method=LoginTestThree.verifyLoginLogoutThree()[pri:0, instance:[Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ] output=<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="fixtureTearDown(org.testng.ITestResult)[pri:0, instance:[Test: &quot;null&quot; verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ]" name="fixtureTearDown" is-config="true" duration-ms="2059" started-at="2016-01-18T07:14:47Z" finished-at="2016-01-18T07:14:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginLogoutThree on [Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:]  status=SUCCESS method=LoginTestThree.verifyLoginLogoutThree()[pri:0, instance:[Test: "null" verbose:1[parameters:][metagroups:] [included: ][excluded: ]  classes: packages:] ] output=<p><font face='verdana' color='red'> **** WARNING: No environment has been passed from Jenkins. Tests will be executed on the default environment: 'SIT' from properties file **** </font><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fixtureTearDown -->
+      </class> <!-- Tests.LoginTestThree -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
